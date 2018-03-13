@@ -1,0 +1,16 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "description": "The Google URL Shortener at goo.gl is a service that takes long URLs and squeezes them into fewer characters to make a link that is easier to share, tweet, or email to friends.",
+  "main": "urlshortener.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^27.0.0",
+    "nconf": "^0.10.0",
+    "path": "^0.12.7"
+  }
+}
