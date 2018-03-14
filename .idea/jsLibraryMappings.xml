@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="curso_nodej/js/clase11/nodejskoans3/6_socket.io/node_modules" />
+    <excludedPredefinedLibrary name="curso_nodej/js/clase11/nodejskoans3/node_modules" />
+  </component>
+</project>
